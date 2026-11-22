@@ -1,0 +1,16 @@
+# Python virtual environment
+venv/
+.venv/
+
+# Private keys
+keys/private_key.pem
+
+# Certificate backup
+certification/certificate_backup.pem
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment files
+.env
